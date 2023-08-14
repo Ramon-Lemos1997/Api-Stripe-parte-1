@@ -13,3 +13,4 @@ app.use('/api', apiRouter);
 app.listen(process.env.PORT, () => {
   console.log('Server running');
 });
+PORT=3002
